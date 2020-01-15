@@ -1,4 +1,4 @@
-//import React from 'react';
+import React from 'react';
 
 class CoordinatesButton extends React.Component {
   handleClick = event => {
